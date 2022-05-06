@@ -1,0 +1,18 @@
+drawing_units		 INCH
+drawing_text_height	 0.15625
+
+draw_arrow_length	 0.1875
+draw_arrow_width	 0.0625
+draw_arrow_style	 CLOSED
+leader_elbow_length	 0.25
+
+decimal_marker		 COMMA_FOR_METRIC_DUAL
+
+default_font		 font
+aux_font		 1 filled
+
+min_balloon_radius       0.0
+max_balloon_radius       0.0
+text_width_factor        0.8
+
+def_wire_label           "&wire_name"
