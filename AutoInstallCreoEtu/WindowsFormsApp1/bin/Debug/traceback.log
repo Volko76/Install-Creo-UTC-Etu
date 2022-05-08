@@ -1,0 +1,9 @@
+-------------------------------------------------
+The trace creation timestamp is: dim. mai 08 13:44:54 22
+The executable build timestamp is: jeu. janv. 01 01:01:57 70
+The datecode is: NA
+The pro machine type is: NA
+The process ID is: NA
+The traceback type is : CRASH
+-------------------------------------------------
+Exception EXCEPTION_ACCESS_VIOLATION has occurred in the thread 14352.
